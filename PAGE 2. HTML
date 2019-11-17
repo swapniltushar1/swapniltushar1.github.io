@@ -1,6 +1,8 @@
+<html>
 <head>
+<titlestyle="color:red";>Hobbies:</title>
+</head>
 <body>
-<h1 style="color:red";>Hobbies:</h1>
 <h3 style="color:red";> Formal Sports</h3>
 <h4 style="color:red";> Cricket</h4>
 <img src="https://www.cosco.in/uploads/products/category/sports-banner-cricket_71662810492.jpg"hight="50%"width="100%">
@@ -31,6 +33,5 @@
 <h4 style="color:red";> Drawing & Painting</h4>
 <img src="https://afremov.com/images/product/LONELINESS-OF-AUTUMN_.jpg"hight="50%"width="100%">
 </body>
-</head>
 </html>
 
